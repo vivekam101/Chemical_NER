@@ -1,0 +1,28 @@
+{
+  "vectors":{
+    "vectors":0,
+    "width":0,
+    "keys":0
+  },
+  "version":"0.0.0",
+  "name":"unnamed",
+  "speed":{
+    "nwords":7797,
+    "gpu":null,
+    "cpu":15816.7071128711
+  },
+  "lang":"en",
+  "accuracy":{
+    "las":0.0,
+    "token_acc":100.0,
+    "ents_p":95.1534733441,
+    "uas":0.0,
+    "tags_acc":99.9743425273,
+    "ents_r":97.3553719008,
+    "ents_f":96.2418300654
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "spacy_version":">=2.0.11"
+}

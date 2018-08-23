@@ -1,0 +1,32 @@
+Å´transitions⁄z[
+  {
+    "label":"CHEM",
+    "clas":0,
+    "name":"B-CHEM",
+    "move":1
+  },
+  {
+    "label":"CHEM",
+    "clas":1,
+    "name":"I-CHEM",
+    "move":2
+  },
+  {
+    "label":"CHEM",
+    "clas":2,
+    "name":"L-CHEM",
+    "move":3
+  },
+  {
+    "label":"CHEM",
+    "clas":3,
+    "name":"U-CHEM",
+    "move":4
+  },
+  {
+    "label":"",
+    "clas":4,
+    "name":"O",
+    "move":5
+  }
+]
